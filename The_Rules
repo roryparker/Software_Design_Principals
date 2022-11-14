@@ -1,0 +1,10 @@
+Minimize exceptions and errors.
+Classes should be deep and not shallow and all over the place.
+Focus on the Mindset (Strategic) 
+    - Great Design
+    - Simplify Development
+    - Minimize complexity
+    - Small stuff is important
+    - Take extra time
+Do not become a Tactical Tornado (Produce shoddy code that works)
+Build documentation, unit, and integration tests while developing.
